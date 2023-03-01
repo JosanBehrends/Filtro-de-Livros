@@ -1,4 +1,4 @@
-# Filtro-de-Livros
+# Filtro de Livros
 Esse projeto é um filtro de livros para e-commerce, muito útil para produtos. Nesse projeto foi desenvolvido a parte de JavaScript para dar dinamismo à página.
 
 O link do projeto para visualização na Vercel é: https://filtro-de-livros.vercel.app/
